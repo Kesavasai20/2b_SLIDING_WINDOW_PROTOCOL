@@ -1,7 +1,9 @@
 ## 2B IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## NAME: K KESAVA SAI
 ## REGISTER NUMBER: 212223230105
-## AIM
+## AIM:
+To write python program to perform stop and wait protocol.
+
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
